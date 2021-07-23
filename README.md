@@ -1,5 +1,7 @@
 # Interactive-Choropleth-Map-React-Leaflet-Example
 
+Interative Cloropleth Map of USA Population using Leaflet.js
+
 ```
 npm install
 npm start
